@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="defaultProjectDirectory" value="$USER_HOME$/Development" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/development/CLion" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
